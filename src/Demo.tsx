@@ -1,6 +1,5 @@
 import {
   EuiButton,
-  EuiFlexGroup,
   EuiFlexItem,
 } from '@elastic/eui';
 

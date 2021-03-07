@@ -4,7 +4,6 @@ import {
     EuiFlyout,
     EuiFlyoutBody,
     EuiFlyoutHeader,
-    EuiButton,
     EuiText,
     EuiTitle,
     EuiCodeBlock,

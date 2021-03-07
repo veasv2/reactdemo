@@ -1,17 +1,10 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import MenuUsuario from "./MenuUsuario";
 import {
     EuiAvatar,
-    EuiBadge,
-    EuiButtonEmpty,
     EuiFlexGroup,
     EuiFlexItem,
-    EuiFlyout,
-    EuiFlyoutBody,
-    EuiFlyoutFooter,
-    EuiFlyoutHeader,
     EuiHeader,
-    EuiHeaderAlert,
     EuiHeaderLogo,
     EuiHeaderSection,
     EuiHeaderSectionItem,
@@ -19,13 +12,8 @@ import {
     EuiIcon,
     EuiLink,
     EuiPopover,
-    EuiPopoverFooter,
-    EuiPopoverTitle,
-    EuiPortal,
     EuiSpacer,
-    EuiSwitch,
     EuiText,
-    EuiTitle,
 } from '@elastic/eui';
 
 function Header() {
